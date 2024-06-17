@@ -1,0 +1,57 @@
+
+.tittle{
+    height: 100px;
+    width: auto;
+    border: 5px solid rgb(65, 3, 1);
+    padding: 20px;
+    margin: 15px 15px 5px 15px;
+    text-align: center;
+    background-color: rgba(138, 59, 13, 0.836);
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(247, 179, 179);
+    
+}
+.recipe-container{
+    display: flex;
+    height: auto;
+    width: 1329px;
+    margin: 5px 10px 10px 10px;
+}
+.pizza{
+    height: 100px;
+    width: 443px;
+    margin:5px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 24px;
+    background-color: rgb(241, 132, 118);
+    border: 5px solid rgb(65, 3, 1);
+    font-family: 'Courier New', Courier, monospace;
+    place-content: center;
+    
+}
+.brownies{
+    height: 100px;
+    width: 443px;
+    margin:5px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 24px;
+    background-color: rgb(241, 132, 118);
+    border: 5px solid rgb(65, 3, 1);
+    font-family: 'Courier New', Courier, monospace;
+    place-content: center;
+}
+.borscht{
+    height: 100px;
+    width: 443px;
+    margin:5px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 24px;
+    background-color: rgb(241, 132, 118);
+    border: 5px solid rgb(65, 3, 1);
+    font-family: 'Courier New', Courier, monospace;
+    place-content: center;
+}

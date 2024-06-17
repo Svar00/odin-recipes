@@ -1,28 +1,31 @@
 
 .tittle{
     height: 100px;
-    width: auto;
+    width: 1490px;
     border: 5px solid rgb(65, 3, 1);
-    padding: 20px;
-    margin: 15px 15px 5px 15px;
-    text-align: center;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 5px;
     background-color: rgba(138, 59, 13, 0.836);
     font-size: 24px;
+   text-align: center;
     font-family: 'Courier New', Courier, monospace;
     color: rgb(247, 179, 179);
+
     
 }
 .recipe-container{
-    display: flex;
+    display: inline-flex;
     height: auto;
-    width: 1329px;
-    margin: 5px 10px 10px 10px;
+    width: 1500px;
+    margin: 5px 10px 10px 15px;
+    
 }
 .pizza{
     height: 100px;
-    width: 443px;
-    margin:5px;
-    box-sizing: border-box;
+    width: 485px;
+    margin-right: 15px;
     text-align: center;
     font-size: 24px;
     background-color: rgb(241, 132, 118);
@@ -33,9 +36,8 @@
 }
 .brownies{
     height: 100px;
-    width: 443px;
-    margin:5px;
-    box-sizing: border-box;
+    width: 485px;
+    margin-right: 15px;
     text-align: center;
     font-size: 24px;
     background-color: rgb(241, 132, 118);
@@ -45,9 +47,8 @@
 }
 .borscht{
     height: 100px;
-    width: 443px;
-    margin:5px;
-    box-sizing: border-box;
+    width: 485px;
+    margin-right: 0px;
     text-align: center;
     font-size: 24px;
     background-color: rgb(241, 132, 118);
